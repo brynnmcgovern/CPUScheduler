@@ -1,0 +1,25 @@
+README Assignment 4 - CPU Scheduler
+1. Brynn McGovern
+   2370579
+   bmcgovern@chapman.edu
+   CPSC 380 - 01
+   Assignment 4 - CPU Scheduler
+
+2. list.c
+   list.h
+   CPU.c
+   cpu.h
+   driver.c
+   schedule_rr.c
+   schedule_fcfs.c
+   task.h
+   schedule_sjf.c
+   schedule_priority.c
+
+3. N/A
+
+4. Consulted Google for help and worked with Diego Lopez Ramos.
+
+5. Example for fcfs:
+    make fcfs
+    ./fcfs schedule.txt
